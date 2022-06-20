@@ -1,0 +1,21 @@
+{
+  "items": [
+    {
+      "title": "Home",
+      "link": "/"
+    },
+
+    {
+      "title": "Projects",
+      "link": "/projects"
+    },
+    {
+      "title": "Contact",
+      "link": "/contacts"
+    },
+    {
+      "title": "Skills",
+      "link": "/about"
+    }
+  ]
+}

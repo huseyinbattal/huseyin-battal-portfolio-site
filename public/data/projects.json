@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "title": "Live Chat Application",
+      "description": "In this project i use Node.js, Express, Socket.io",
+      "link": "https://github.com/huseyinbattal/Live-Chat-App-with-Node.js",
+      "category": "Node.js"
+    },
+    {
+      "title": "Movie Application API",
+      "description": "I built an API with Node.js",
+      "link": "https://github.com/huseyinbattal/Nodejs-Movie-Api",
+      "category": "Node.js"
+    },
+    {
+      "title": "Tic-Tac-Toe Game",
+      "description": "I built a game (XOX) with React.js",
+      "link": "https://github.com/huseyinbattal/React-Tic-Tac-Toe-Game",
+      "category": "React.js"
+    },
+    {
+      "title": "Movie Application",
+      "description": "I used Redux in this project.",
+      "link": "https://github.com/huseyinbattal/Movie-App-with-React-Redux",
+      "category": "Redux"
+    },
+    {
+      "title": "Yelp.com Clone",
+      "description": "I cloned Yelp.com with React.js",
+      "link": "https://github.com/huseyinbattal/yelp.com-Clone-with-React",
+      "category": "react.js"
+    },
+    {
+      "title": "Clock Application",
+      "description": "I designed a clock with React.js",
+      "link": "https://github.com/huseyinbattal/Clock-with-React.js",
+      "category": "react.js"
+    },
+    {
+      "title": "Phone Book Application",
+      "description": "I built a phone book with React.js (states,props,components)",
+      "link": "https://github.com/huseyinbattal/Phone-Book-with-React.js",
+      "category": "react.js"
+    },
+    {
+      "title": "Library API",
+      "description": "I built an API with Node.js. I used as a database PostgreSQL ",
+      "link": "https://github.com/huseyinbattal/Library-Api-with-PostgreSQL-Express-",
+      "category": "Node.js-PostgreSQL"
+    },
+    {
+      "title": "GitHub Profile",
+      "description": "Visit My Profile ",
+      "link": "https://github.com/huseyinbattal",
+      "category": "profil"
+    }
+    
+  ]
+}
