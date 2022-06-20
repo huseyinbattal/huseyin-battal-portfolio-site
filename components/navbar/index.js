@@ -1,5 +1,5 @@
 import Link from "next/link";
-import "/Users/user/Desktop/portfolio website/portfolio-website-2/Portfolio-Site-with-Next.js/components/navbar/index.js"
+
 
 const Navbar = ({ data }) => {
   return (
