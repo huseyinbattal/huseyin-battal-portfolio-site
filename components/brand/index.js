@@ -15,7 +15,7 @@ const Brand = () => {
             Hüseyin BATTAL
           </strong>
           <span className="text-xl font-light leading-none">
-            Full Stack Developer
+            React Developer
           </span>
         </div>
       </div>

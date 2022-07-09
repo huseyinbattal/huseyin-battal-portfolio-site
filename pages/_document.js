@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html lang="tr">
       <Head>
-        <title>Hüseyin BATTAL | Full Stack Developer</title>
+        <title>Hüseyin BATTAL | React Developer</title>
         <meta
           name="description"
           content=""
