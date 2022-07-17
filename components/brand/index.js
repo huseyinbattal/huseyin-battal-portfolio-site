@@ -1,5 +1,5 @@
 import Link from "next/link";
-const logo="https://reactdeveloper.site/react-logo.png"
+const logo="https://reactdeveloper.site/logo.svg"
 
 const Brand = () => {
   return (
