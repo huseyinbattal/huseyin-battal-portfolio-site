@@ -20,7 +20,7 @@ const Brand = () => {
             Hüseyin BATTAL
           </strong>
           <span className="text-2xl font-light leading-none flex gap-2 text-blue-400" >
-            React Developer <img width="25px" src={logo} alt="logo" />
+            React Developer <span style={{color:"rgb(47,196,99)"}}>{"<"}</span><img width="25px"  src={logo} alt="logo" /><span style={{color:"rgb(47,196,99)"}}>{"/>"}</span>
           </span>
         </div>
       </div>
