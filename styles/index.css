@@ -92,11 +92,12 @@ small {
 a{
   color: crimson;
   padding: 5px;
+ 
 }
 
 a:hover{
-  color:blue;
-  background-color: wheat;
+  color:white;
+  background-color: rgb(248 113 113 );
   border-radius: 10px;
 }
 
