@@ -21,17 +21,17 @@ const Contacts = () => {
           <div className="lg:ml-10">
             <h2>
               <strong>Hello, I'm Hüseyin 👋</strong><br /><br />
-              <h3 className="font-serif text-gray-500 text-3xl">I'm a software developer. I have been focusing on frontend technologies for the last few years. I'm developing frontend projects with react. I also have knowledge and experience about backend technologies. I love doing hobby projects and learning new technologies.</h3>
+              <h3 className="font-serif text-gray-500 md:text-3xl">I'm a software developer. I have been focusing on frontend technologies for the last few years. I'm developing frontend projects with react. I also have knowledge and experience about backend technologies. I love doing hobby projects and learning new technologies.</h3>
               <br/>
               <h3 className="italic text-blue-600">You can contact me at the e-mail address below.👇</h3>
             </h2>
             <p className="italic">
-              E-mail:{" "}
+            📧 E-mail:{" "}
               <a
                 href="mailto:hsynbattal@icloud.com,"
                 className="underline underline-offset-2 transition"
               >
-                hsynbattal@icloud.com
+                huseyinbattal42@gmail.com
               </a>{" "}
              
             </p>
