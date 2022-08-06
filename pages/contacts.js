@@ -26,11 +26,11 @@ const Contacts = () => {
               <h3 className="italic text-blue-600 text-sm lg:text-xl">You can contact me at the e-mail address below.👇</h3>
             </h2>
             <p className="italic text-sm lg:text-xl">
-            E-mail:{" "}
               <a
                 href="mailto:hsynbattal@icloud.com,"
                 className="underline underline-offset-2 transition"
               >
+                
                 huseyinbattal42@gmail.com
               </a>{" "}
              
