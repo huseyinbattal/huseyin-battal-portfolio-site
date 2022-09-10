@@ -5,7 +5,7 @@ function Home() {
   return (
     <>
       <section className= "xl:mt-24 md:flex md:gap-12 md:justify-center">
-        <figure className="mb-16 xl:block">
+        <figure className="mb-16 xl:block ml-16">
           <img 
             src="https://reactdeveloper.site/pixlr-bg-result.png"
             alt="Hüseyin BATTAL"
