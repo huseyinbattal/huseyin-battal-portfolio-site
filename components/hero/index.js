@@ -6,7 +6,7 @@ const Hero = () => {
 
   useEffect(() => {
     const typed = new Typed(el.current, {
-      strings: ["React Developer","Html - Css - JavaScript - React.js","Node.js - Express.js","MongoDB - PostgreSQL"],
+      strings: ["React.JS Developer","Html - Css - JavaScript - React.JS","Node.JS - Express.js","MongoDB - PostgreSQL"],
       startDelay: 200,
       typeSpeed: 60,
       backDelay: 1000,
