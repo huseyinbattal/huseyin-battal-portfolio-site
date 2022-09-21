@@ -8,7 +8,7 @@ const Brand = () => {
         <Link href="/" aria-label="Home Page">
           <figure className="p-1 mr-2 cursor-pointer transition hover:scale-150 duration-500">
             <img
-              width="50px"
+              width="60px"
               src="https://reactdeveloper.site/logobg.png"
               alt="HB Logo"
             />
