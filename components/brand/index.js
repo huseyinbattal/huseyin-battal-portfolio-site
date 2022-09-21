@@ -18,7 +18,7 @@ const Brand = () => {
         <div className="flex flex-col justify-between gap-1">
         
           <span className="text-2xl font-light leading-none flex gap-2 text-blue-400" >
-            React.JS Developer <span style={{color:"rgb(47,196,99)"}}>{"<"}</span><img width="25px"  src={logo} alt="logo" /><span style={{color:"rgb(47,196,99)"}}>{"/>"}</span>
+            React.JS Developer <span style={{color:"rgb(47,196,99)"}}>{"<"}</span><img width="30px"  src={logo} alt="logo" /><span style={{color:"rgb(47,196,99)"}}>{"/>"}</span>
           </span>
         </div>
       </div>
