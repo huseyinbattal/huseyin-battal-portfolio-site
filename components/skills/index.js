@@ -9,6 +9,7 @@ const Skills = () => {
     "React-Router",
     "Redux",
     "Nextjs",
+    "Jest",
     "Tailwind CSS",
     "Webpack",
     "Storybook",
@@ -26,7 +27,7 @@ const Skills = () => {
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-5 gap-x-5 gap-y-12 mt-5">
           {arr.map((name, i) => (
             <figure
-              className="flex flex-col items-center justify-center h-28"
+              className="flex flex-col items-center justify-center h-28 hover:shadow-green-500 hover:shadow-xl cursor-pointer shadow-green-200 shadow-sm"
               key={i}
             >
               <img
