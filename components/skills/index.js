@@ -13,7 +13,7 @@ const Skills = () => {
     "Tailwind CSS",
     "Webpack",
     "Storybook",
-    "Styled-Components",
+    "Styled-Comp",
     "Prettier",
     "Nodejs",
     "MongoDB",
