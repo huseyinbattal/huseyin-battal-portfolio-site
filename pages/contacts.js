@@ -2,6 +2,8 @@ import { useEffect } from "react"
 import Title from "@/components/title"
 import Subtitle from "@/components/subtitle"
 
+const hbsearch="https://reactdeveloper.site/345.jpg"
+
 const Contacts = () => {
   useEffect(() => {
     window.scrollTo(0, 0)
@@ -21,7 +23,10 @@ const Contacts = () => {
           <div className="lg:ml-10">
             <h2>
               <strong>Hello, I'm Hüseyin 👋</strong><br /><br />
-              <h3 className="font-serif text-gray-500 md:text-3xl">I'm a software developer. I have been focusing on frontend technologies for the last few years. I'm developing frontend projects with react. I also have knowledge and experience about backend technologies. I love doing hobby projects and learning new technologies.</h3>
+              <div className="float-left mr-4 mb-3">
+              <img className="rounded-xl" width="400px" src={hbsearch} />
+              </div>
+              <h3 className="font-serif text-gray-500 md:text-4xl">I'm a software developer. I have been focusing on frontend technologies for the last few years. I'm developing frontend projects with react. I also have knowledge and experience about backend technologies. I love doing hobby projects and learning new technologies.</h3>
               <br/>
               <h3 className="italic text-blue-600 text-sm lg:text-xl">You can contact me at the e-mail address below.👇</h3>
             </h2>
