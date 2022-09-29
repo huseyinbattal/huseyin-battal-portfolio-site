@@ -19,6 +19,7 @@ export default function Document() {
           href="https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css"
           rel="stylesheet"
         />
+        <link rel="icon" href="https://reactdeveloper.site/lgn.png" />
       </Head>
       <body>
         <Main />
