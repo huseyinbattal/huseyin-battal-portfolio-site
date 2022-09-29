@@ -23,8 +23,8 @@ const Contacts = () => {
           <div className="lg:ml-10">
             <h1 className="font-serif text-center text-yellow-500">
               <strong>Hello everyone, I'm Hüseyin 👋</strong><br /><br /></h1>
-              <div className="float-left mt-1 mr-6 mb-1 ">
-              <img className="rounded-xl border-4 border-red-900" width="400px" src={hbsearch} />
+              <div className="rounded-xl border-4 border-yellow-400 shadow-blue-400 shadow-2xl float-left mt-2 mr-12 mb-3 ">
+              <img width="400px" src={hbsearch} />
               </div>
               <h3 className="text-left font-serif text-gray-500 md:text-4xl">I'm a software developer. I have been focusing on frontend technologies for the last few years. I'm developing frontend projects with react. I also have knowledge and experience about backend technologies. I love doing hobby projects and learning new technologies.</h3>
               <br/>
