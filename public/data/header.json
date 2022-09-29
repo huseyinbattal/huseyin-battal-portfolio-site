@@ -10,12 +10,12 @@
       "link": "/projects"
     },
     {
-      "title": "Contact",
-      "link": "/contacts"
+      "title": "About",
+      "link": "/about"
     },
     {
       "title": "Skills",
-      "link": "/about"
+      "link": "/skills"
     }
   ]
 }
