@@ -1,12 +1,12 @@
 const Social = () => {
   return (
     <>
-      <div className="inline-flex mt-12 md:flex-row gap-0 border-t-2 pt-5">
+      <div className="grid grid-cols-4 mt-8 md:flex-row border-t-2 pt-1">
         <a
           href="https://www.linkedin.com/in/huseyinbattal42/"
           target="_blank"
           rel="noopener noreferrer"
-          className="-ml-3 inline-flex rounded hover:bg-black/[.1] p-4 no-underline hover:no-underline hover:text-black"
+          className="inline-flex rounded hover:bg-black/[.1] p-4 no-underline hover:no-underline hover:text-black"
         >
           <figure>
             <svg
@@ -76,11 +76,47 @@ const Social = () => {
           href="https://www.facebook.com/hsynbattal/"
           target="_blank"
           rel="noopener noreferrer"
-          className="-mr-2 inline-flex rounded hover:bg-black/[.1] p-4 no-underline hover:no-underline hover:text-black"
+          className="inline-flex rounded hover:bg-black/[.1] p-4 no-underline hover:no-underline hover:text-black"
         >
           <figure>
           <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="dodgerblue" class="bi bi-facebook" viewBox="0 0 16 16">
   <path d="M16 8.049c0-4.446-3.582-8.05-8-8.05C3.58 0-.002 3.603-.002 8.05c0 4.017 2.926 7.347 6.75 7.951v-5.625h-2.03V8.05H6.75V6.275c0-2.017 1.195-3.131 3.022-3.131.876 0 1.791.157 1.791.157v1.98h-1.009c-.993 0-1.303.621-1.303 1.258v1.51h2.218l-.354 2.326H9.25V16c3.824-.604 6.75-3.934 6.75-7.951z"/>
+</svg>
+          </figure>
+        </a>
+
+        <a
+          href="https://medium.com/@huseyinbattal42"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex rounded hover:bg-black/[.1] p-4 no-underline hover:no-underline hover:text-black"
+        >
+          <figure>
+          <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="black" class="bi bi-medium" viewBox="0 0 16 16">
+  <path d="M9.025 8c0 2.485-2.02 4.5-4.513 4.5A4.506 4.506 0 0 1 0 8c0-2.486 2.02-4.5 4.512-4.5A4.506 4.506 0 0 1 9.025 8zm4.95 0c0 2.34-1.01 4.236-2.256 4.236-1.246 0-2.256-1.897-2.256-4.236 0-2.34 1.01-4.236 2.256-4.236 1.246 0 2.256 1.897 2.256 4.236zM16 8c0 2.096-.355 3.795-.794 3.795-.438 0-.793-1.7-.793-3.795 0-2.096.355-3.795.794-3.795.438 0 .793 1.699.793 3.795z"/>
+</svg>
+          </figure>
+        </a>
+         <a
+          href="https://www.hackerrank.com/huseyinbattal42"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex rounded hover:bg-black/[.1] p-4 no-underline hover:no-underline hover:text-black"
+        >
+          <figure>
+          <svg height="50" width="60" xmlns="http://www.w3.org/2000/svg" viewBox="1 1 582 486.999"><path d="M-1-1h582v402H-1z" fill="none"/><path d="M454.843 141.001c-13.019-22.417-172.832-115-198.859-115-26.019 0-185.895 92.351-198.84 115-12.947 22.649-13.019 207.358 0 230.009 13.018 22.639 172.839 114.989 198.84 114.989 26 0 185.841-92.466 198.851-114.999 13.007-22.533 13.016-207.583.008-229.999zM309.862 398.15c-3.559 0-36.756-32.137-34.141-34.762.781-.78 5.625-1.328 15.768-1.644 0-23.564.53-61.622.844-77.553.038-1.814-.395-3.081-.395-5.256h-71.812c0 6.379-.412 32.523 1.232 65.479.205 4.078-1.42 5.353-5.158 5.335-9.102-.025-18.211-.099-27.321-.071-3.683.009-5.274-1.374-5.157-5.488.826-30.043 2.66-75.488-.134-191.07v-2.849c-8.688-.314-14.717-.862-15.508-1.652-2.624-2.624 31.032-34.76 34.581-34.76 3.558 0 36.989 32.145 34.383 34.76-.782.781-7.098 1.338-15.067 1.652v2.84c-2.174 23.135-1.823 71.506-2.362 94.686h72.107c0-4.089.351-31.212-1.077-75.145-.091-3.047.853-4.646 3.781-4.672 9.945-.072 19.9-.117 29.855-.055 3.108.019 4.105 1.546 4.043 4.834-3.28 171.861-.594 159.867-.594 188.975 7.97.315 15.112.864 15.895 1.655 2.588 2.615-30.205 34.761-33.763 34.761z" fill="#2ec866"/></svg>
+          </figure>
+        </a>
+
+        <a
+          href="https://www.youtube.com/channel/UCCg4uh_vbLJJ7-H58W0PmuQ"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex rounded hover:bg-black/[.1] p-4 no-underline hover:no-underline hover:text-black"
+        >
+          <figure>
+          <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="red" class="bi bi-youtube" viewBox="0 0 16 16">
+  <path d="M8.051 1.999h.089c.822.003 4.987.033 6.11.335a2.01 2.01 0 0 1 1.415 1.42c.101.38.172.883.22 1.402l.01.104.022.26.008.104c.065.914.073 1.77.074 1.957v.075c-.001.194-.01 1.108-.082 2.06l-.008.105-.009.104c-.05.572-.124 1.14-.235 1.558a2.007 2.007 0 0 1-1.415 1.42c-1.16.312-5.569.334-6.18.335h-.142c-.309 0-1.587-.006-2.927-.052l-.17-.006-.087-.004-.171-.007-.171-.007c-1.11-.049-2.167-.128-2.654-.26a2.007 2.007 0 0 1-1.415-1.419c-.111-.417-.185-.986-.235-1.558L.09 9.82l-.008-.104A31.4 31.4 0 0 1 0 7.68v-.123c.002-.215.01-.958.064-1.778l.007-.103.003-.052.008-.104.022-.26.01-.104c.048-.519.119-1.023.22-1.402a2.007 2.007 0 0 1 1.415-1.42c.487-.13 1.544-.21 2.654-.26l.17-.007.172-.006.086-.003.171-.007A99.788 99.788 0 0 1 7.858 2h.193zM6.4 5.209v4.818l4.157-2.408L6.4 5.209z"/>
 </svg>
           </figure>
         </a>

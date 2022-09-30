@@ -17,14 +17,14 @@ const Projects = () => {
           {data.items.map(({ title, description, link, category }, index) => (
             <Tilt
               key={index}
-              className="flex gap-5"
+              className="flex gap-5 border-2 border-pink-700 rounded-2xl p-4"
               tiltEnable={
                 typeof window !== "undefined" && window.innerWidth >= 1024
                   ? true
                   : false
               }
             >
-              <span className="hidden md:flex items-center justify-center text-5xl font-extralight	 tabular-nums w-14">
+              <span className="text-yellow-600  font-mono rounded-xl border-2 border-pink-700 font-bold hidden md:flex items-center justify-center text-5xl tabular-nums w-24">
                 {index !== data.items.length - 1 ? index + 1 : "..."}
               </span>
 
@@ -33,7 +33,7 @@ const Projects = () => {
                   {category}
                 </span>
 
-                <h2 className="text-2xl font-bold mb-2">{title}</h2>
+                <h2 className="text-2xl text-cyan-500 font-serif font-bold mb-2">{title}</h2>
 
                 <p className="mb-2">{description}</p>
 

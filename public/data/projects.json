@@ -2,49 +2,49 @@
   "items": [
     {
       "title": "Live Chat Application",
-      "description": "In this project i use Node.js, Express, Socket.io",
+      "description": "Chat live with your friends.",
       "link": "https://github.com/huseyinbattal/Live-Chat-App-with-Node.js",
       "category": "Node.js"
     },
     {
       "title": "Movie Application API",
-      "description": "I built an API with Node.js",
+      "description": "Save your movies to database",
       "link": "https://github.com/huseyinbattal/Nodejs-Movie-Api",
       "category": "Node.js"
     },
     {
       "title": "Tic-Tac-Toe Game",
-      "description": "I built a game (XOX) with React.js",
+      "description": "Enjoy the game.",
       "link": "https://github.com/huseyinbattal/React-Tic-Tac-Toe-Game",
       "category": "React.js"
     },
     {
       "title": "Movie Application",
-      "description": "I used Redux in this project.",
+      "description": "Add, modify and delete movies.",
       "link": "https://github.com/huseyinbattal/Movie-App-with-React-Redux",
-      "category": "Redux"
+      "category": "React-Redux"
     },
     {
-      "title": "Yelp.com Clone",
-      "description": "I cloned Yelp.com with React.js",
-      "link": "https://github.com/huseyinbattal/yelp.com-Clone-with-React",
-      "category": "react.js"
+      "title": "To Do List",
+      "description": "Keeping track of our daily tasks.",
+      "link": "https://github.com/huseyinbattal/todo-list",
+      "category": "React.js"
     },
     {
       "title": "Clock Application",
-      "description": "I designed a clock with React.js",
+      "description": "See the time of your current location digitally.",
       "link": "https://github.com/huseyinbattal/Clock-with-React.js",
-      "category": "react.js"
+      "category": "React.js"
     },
     {
       "title": "Phone Book Application",
-      "description": "I built a phone book with React.js (states,props,components)",
+      "description": "Add your contacts to the phone book.",
       "link": "https://github.com/huseyinbattal/Phone-Book-with-React.js",
-      "category": "react.js"
+      "category": "React.js"
     },
     {
       "title": "Library API",
-      "description": "I built an API with Node.js. I used as a database PostgreSQL ",
+      "description": "Add new books to your library.",
       "link": "https://github.com/huseyinbattal/Library-Api-with-PostgreSQL-Express-",
       "category": "Node.js-PostgreSQL"
     },
