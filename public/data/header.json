@@ -9,13 +9,14 @@
       "title": "Projects",
       "link": "/projects"
     },
-    {
-      "title": "About",
-      "link": "/about"
-    },
+
     {
       "title": "Skills",
       "link": "/skills"
+    },
+    {
+      "title": "About",
+      "link": "/about"
     }
   ]
 }
