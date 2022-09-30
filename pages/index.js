@@ -10,7 +10,7 @@ function Home() {
             src="https://reactdeveloper.site/pixlr-bg-result.png"
             alt="Hüseyin BATTAL"
             width={200}
-            className="rounded-xl border border-green-300"
+            className="rounded-xl border-2 border-blue-200"
           />
         </figure>
 
