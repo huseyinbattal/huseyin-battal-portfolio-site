@@ -1,40 +1,28 @@
 {
   "items": [
     {
-      "title": "Live Chat Application",
-      "description": "Chat live with your friends.",
-      "link": "https://github.com/huseyinbattal/Live-Chat-App-with-Node.js",
-      "category": "Node.js"
-    },
-    {
-      "title": "Movie Application API",
-      "description": "Save your movies to database",
-      "link": "https://github.com/huseyinbattal/Nodejs-Movie-Api",
-      "category": "Node.js"
-    },
-    {
       "title": "Tic-Tac-Toe Game",
-      "description": "Enjoy the game.",
+      "description": "The game on the official site of react.",
       "link": "https://github.com/huseyinbattal/React-Tic-Tac-Toe-Game",
       "category": "React.js"
     },
     {
       "title": "Movie Application",
-      "description": "Add, modify and delete movies.",
+      "description": "Add movies to mock database.",
       "link": "https://github.com/huseyinbattal/Movie-App-with-React-Redux",
-      "category": "React-Redux"
+      "category": "React.js-Redux"
     },
     {
       "title": "To Do List",
       "description": "Keeping track of our daily tasks.",
       "link": "https://github.com/huseyinbattal/todo-list",
-      "category": "React.js"
+      "category": "React.js-redux"
     },
     {
-      "title": "Clock Application",
-      "description": "See the time of your current location digitally.",
-      "link": "https://github.com/huseyinbattal/Clock-with-React.js",
-      "category": "React.js"
+      "title": "Portfolio Website",
+      "description": "Check out my portfolio website's codes.",
+      "link": "https://github.com/huseyinbattal/huseyin-battal-portfolio-site",
+      "category": "React.js-Next.JS"
     },
     {
       "title": "Phone Book Application",
@@ -44,15 +32,27 @@
     },
     {
       "title": "Library API",
-      "description": "Add new books to your library.",
+      "description": "Back-end project (Book Database)",
       "link": "https://github.com/huseyinbattal/Library-Api-with-PostgreSQL-Express-",
       "category": "Node.js-PostgreSQL"
     },
     {
-      "title": "GitHub Profile",
-      "description": "Visit My Profile ",
+      "title": "Live Chat Application",
+      "description": "Backend-end project (Heroku)",
+      "link": "https://github.com/huseyinbattal/Live-Chat-App-with-Node.js",
+      "category": "Node.js"
+    },
+    {
+      "title": "Movie Application API",
+      "description": "Back-end project",
+      "link": "https://github.com/huseyinbattal/Nodejs-Movie-Api",
+      "category": "Node.js"
+    },
+    {
+      "title": "Pinned Project",
+      "description": "Check out pinned projects in my github profile.",
       "link": "https://github.com/huseyinbattal",
-      "category": "profil"
+      "category": ""
     }
     
   ]

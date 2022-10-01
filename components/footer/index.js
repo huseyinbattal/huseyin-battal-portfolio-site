@@ -5,6 +5,7 @@ const Footer = () => {
         <span>© {new Date().getFullYear()} / Hüseyin BATTAL</span>
         <p className="mb-0">
           <a
+            className="e-mail"
             href="https://huseyinbattal.online/"
             rel="noopener noreferrer"
           >

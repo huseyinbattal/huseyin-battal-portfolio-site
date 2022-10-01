@@ -64,16 +64,19 @@ small {
   font-family: "Hack", monospace;
 }
 
-a{
+a {
   color: crimson;
-  padding: 5px;
- 
+  border-radius: 10px;
 }
 
-a:hover{
-  color:white;
-  background-color: rgb(248 113 113 );
+a:hover {
+  color: white;
+  background-color: rgb(248 113 113);
   border-radius: 10px;
+}
+
+.e-mail{
+  padding: 5px;
 }
 
 /* HAMBURGER MENU */
@@ -89,7 +92,7 @@ a:hover{
 .hamburger-top,
 .hamburger-middle,
 .hamburger-bottom {
-  content: '';
+  content: "";
   position: absolute;
   width: 24px;
   height: 3px;
