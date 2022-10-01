@@ -13,7 +13,7 @@ const Projects = () => {
       <section>
         <Title>My Projects</Title>
 
-        <div className="grid grid-cols-1 xl:grid-cols-2 gap-20 mt-20 mx-1">
+        <div className="grid grid-cols-1 sm:grid-cols-2 gap-20 mt-20 mx-1 sm:mx-0">
           {data.items.map(({ title, description, link, category }, index) => (
             <Tilt 
             tiltMaxAngleX={8}
