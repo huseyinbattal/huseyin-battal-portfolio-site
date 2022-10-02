@@ -5,7 +5,7 @@ export default function Document() {
     <Html lang="tr">
       <Head>
         <title>Hüseyin BATTAL | React.JS Developer</title>
-        <meta name="description" content="Hüseyin Battal personal website"></meta>
+        <meta name="description" content="Personal Website"></meta>
         <meta name="keywords" content="HTML,CSS,JavaScript,React,Software,Development" />
         <meta name="author" content="Hüseyin Battal"/>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
