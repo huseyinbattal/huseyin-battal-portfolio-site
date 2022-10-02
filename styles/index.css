@@ -75,7 +75,7 @@ a:hover {
   border-radius: 10px;
 }
 
-.e-mail{
+.e-mail {
   padding: 5px;
 }
 
@@ -132,4 +132,12 @@ a:hover {
 .open .hamburger-bottom {
   transform: rotate(-45deg) translateY(6px) translateX(-6px);
   background-color: #fff;
+}
+
+.active {
+  @apply  bg-red-400 rounded-xl text-white border border-blue-900 w-24 text-center font-semibold text-base lg:text-xl lg:leading-9 no-underline p-2;
+}
+
+.deActive{
+  @apply text-blue-400 rounded-xl p-2 border border-blue-900 shadow-sm shadow-slate-900 text-base lg:text-xl lg:leading-9 no-underline hover:bg-red-400 hover:rounded-xl hover:text-white w-24 text-center
 }
