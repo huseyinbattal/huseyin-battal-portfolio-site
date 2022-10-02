@@ -1,14 +1,13 @@
-import { Html, Head, Main, NextScript } from "next/document"
+import { Html, Head, Main, NextScript } from "next/document";
 
 export default function Document() {
   return (
     <Html lang="tr">
       <Head>
         <title>Hüseyin BATTAL | React.JS Developer</title>
-        <meta
-          name="description"
-          content=""
-        ></meta>
+        <meta name="description" content="Hüseyin Battal personal website"></meta>
+        <meta name="keywords" content="HTML,CSS,JavaScript,React,Software,Development" />
+        <meta name="author" content="Hüseyin Battal"/>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin />
         <link
@@ -39,5 +38,5 @@ export default function Document() {
         </NextScript>
       </body>
     </Html>
-  )
+  );
 }
