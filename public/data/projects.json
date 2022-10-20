@@ -1,10 +1,10 @@
 {
   "items": [
     {
-      "title": "Tic-Tac-Toe Game",
-      "description": "The game on the official site of react.",
-      "link": "https://github.com/huseyinbattal/React-Tic-Tac-Toe-Game",
-      "category": "React.js"
+      "title": "Portfolio Website",
+      "description": "Check out my portfolio website's codes.",
+      "link": "https://github.com/huseyinbattal/huseyin-battal-portfolio-site",
+      "category": "React.js-Next.JS"
     },
     {
       "title": "Movie Application",
@@ -13,17 +13,25 @@
       "category": "React.js-Redux"
     },
     {
+      "title": "Magic Form",
+      "description": "Go through the form validation process.",
+      "link": "https://github.com/huseyinbattal/magic-form",
+      "category": "React.js-formik-yup"
+    },
+    {
+      "title": "Tic-Tac-Toe Game",
+      "description": "The game on the official site of react.",
+      "link": "https://github.com/huseyinbattal/React-Tic-Tac-Toe-Game",
+      "category": "React.js"
+    },
+
+    {
       "title": "To Do List",
       "description": "Keeping track of our daily tasks.",
       "link": "https://github.com/huseyinbattal/todo-list",
       "category": "React.js-redux"
     },
-    {
-      "title": "Portfolio Website",
-      "description": "Check out my portfolio website's codes.",
-      "link": "https://github.com/huseyinbattal/huseyin-battal-portfolio-site",
-      "category": "React.js-Next.JS"
-    },
+
     {
       "title": "Phone Book Application",
       "description": "Add your contacts to the phone book.",
@@ -42,18 +50,12 @@
       "link": "https://github.com/huseyinbattal/Live-Chat-App-with-Node.js",
       "category": "Node.js"
     },
-    {
-      "title": "Movie Application API",
-      "description": "Back-end project",
-      "link": "https://github.com/huseyinbattal/Nodejs-Movie-Api",
-      "category": "Node.js"
-    },
+
     {
       "title": "Pinned Project",
       "description": "Check out pinned projects in my github profile.",
       "link": "https://github.com/huseyinbattal",
       "category": ""
     }
-    
   ]
 }
