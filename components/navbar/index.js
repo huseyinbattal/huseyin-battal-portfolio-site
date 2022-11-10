@@ -5,7 +5,7 @@ const Navbar = () => {
   const router = useRouter();
   return (
     <>
-      <nav className="flex justify-center gap-x-7 gap-y-3 lg:gap-0 lg:space-x-7 -space-x-5 mb-5 ">
+      <nav className="flex justify-center gap-x-7 gap-y-3 lg:gap-0 lg:space-x-7 -space-x-5 mb-5 xl:mr-10 ">
         <Link href="/">
           <a className={router.pathname == "/" ? "active" : "deActive"}>
             Home

@@ -4,7 +4,7 @@ const logo = "https://reactdeveloper.site/giphy.gif";
 const Brand = () => {
   return (
     <>
-      <div className="flex justify-center items-center mb-4">
+      <div className="flex justify-center items-center mb-4 xl:ml-5">
         <Link href="/" aria-label="Home Page">
           <figure className="p-1 cursor-pointer transition hover:scale-125  duration-300">
             <img

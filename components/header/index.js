@@ -5,7 +5,7 @@ import data from "@/public/data/header.json"
 const Header = () => {
   return (
     <>
-      <header>
+      <header className="sticky top-0 bg-slate-100 w-full p-5 z-10">
         <div className="lg:flex items-center justify-center xl:justify-between">
           <Brand />
           <Navbar data={data} />
