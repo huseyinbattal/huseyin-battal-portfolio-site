@@ -26,7 +26,7 @@ const Contacts = () => {
               <div className="rounded-xl border-1  bg-gray-800 border-gray-800 shadow-gray-800 shadow-xl float-left sm:mr-12 md:mr-12 lg:mr-12 mb-8 ">
               {/* <img className="rounded-xl border-2 border-green-100" width="500px" src={hbsearch} /> */}
               </div>
-              <h3 className="text-center font-serif text-gray-500 md:text-2xl">+1 year experienced in IT and a software developer. I have been focusing on front-end technologies for the last year. I'm developing front-end projects with react. I also have knowledge and experience about backend technologies. I love doing hobby projects and learning new technologies.</h3>
+              <h3 className="text-center font-serif  text-slate-800 md:text-3xl">+1 year experienced in IT and a software developer. I have completed six-month full-stack bootcamp training in 2022. I have been focusing on MERN Stack technologies for the last year.  I'm developing full-stack projects with react and node. I also have knowledge about SQL and  NoSQL databases. I love doing hobby projects and learning new technologies.</h3>
               <br/>
               <h3 className="italic text-blue-600 text-sm lg:text-xl text-center">You can contact me at the e-mail address below.👇</h3>
             
