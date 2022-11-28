@@ -17,7 +17,6 @@ const Skills = () => {
     "Prettier",
     "Nodejs",
     "MongoDB",
-    "PostgreSQL",
     "Git",
   ]
 
