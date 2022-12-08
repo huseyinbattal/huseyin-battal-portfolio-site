@@ -1,5 +1,7 @@
 import { Html, Head, Main, NextScript } from "next/document";
 
+const logo = "https://www.reactdeveloper.site/_next/static/media/logobg.f594c67f.svg"
+
 
 export default function Document() {
   return (
@@ -19,7 +21,7 @@ export default function Document() {
           href="https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css"
           rel="stylesheet"
         />
-        <link rel="icon" href="https://reactdeveloper.site/lgn.png" />
+        <link rel="icon" href={ logo} />
       </Head>
       <body>
         <Main />
