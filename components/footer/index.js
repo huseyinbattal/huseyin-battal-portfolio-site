@@ -4,12 +4,13 @@ const Footer = () => {
       <footer className="flex flex-col md:flex-row items-center text-center md:justify-between gap-5">
         <span>© {new Date().getFullYear()} / Hüseyin BATTAL</span>
         <p className="mb-0">
-          <a
+          <a 
+            target="_blank"
             className="e-mail"
-            href="https://huseyinbattal.online/"
+            href="https://www.reactdeveloper.site/"
             rel="noopener noreferrer"
           >
-            www.huseyinbattal.online
+            www.reactdeveloper.site
           </a>
         </p>
       </footer>
