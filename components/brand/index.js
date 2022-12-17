@@ -1,8 +1,9 @@
 import Image from "next/image";
 import Link from "next/link";
 // const logo = "https://reactdeveloper.site/giphy.gif";
-import reactLogo from "../../public/images/giphy.gif"
+//import reactLogo from "../../public/images/giphy.gif"
 import hbLogo from "../../public/images/logobg.png"
+//import js from "../../public/svg/skills/javascript.svg"
 
 
 const Brand = () => {
@@ -24,9 +25,12 @@ const Brand = () => {
           <span className="text-2xl font-serif leading-none flex gap-2 font-bold text-blue-400">
             Full Stack Web Developer{" "}
             <div className="bg-black rounded-sm">
-              <span style={{ color: "gold" }}>{"< JS"}</span>
-         
-            <span style={{ color: "gold" }}>{"/>"}</span>
+              {/* <span style={{ color: "gold" }}>{"< JS"}</span>
+            <span style={{ color: "gold" }}>{"/>"}</span> */}
+              {/* <Image  width={30}
+              height={20}
+              src={js}
+              alt="js"/> */}
             </div>
           </span>
         </div>
