@@ -10,7 +10,7 @@ const Footer = () => {
             href="https://www.reactdeveloper.site/"
             rel="noopener noreferrer"
           >
-            www.reactdeveloper.site
+            Portfolio
           </a>
         </p>
       </footer>

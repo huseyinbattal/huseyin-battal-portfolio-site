@@ -8,7 +8,7 @@ const Hero = () => {
 
   useEffect(() => {
     const typed = new Typed(el.current, {
-      strings: ["React.JS Developer","Html - Css - JavaScript","TypeScript - Next.JS","React.JS - Redux","Tailwind CSS - Bootstrap","Webpack - Storybook","Testing Library - Jest", "Node.JS - Express.JS","MongoDB - PostgreSQL"],
+      strings: ["Full Stack Web Developer","Html - Css - JavaScript","TypeScript - Next.JS","React.JS - Redux","Tailwind CSS - Bootstrap","Webpack - Storybook","Testing Library - Jest", "Node.JS - Express.JS","MongoDB"],
       startDelay: 200,
       typeSpeed: 60,
       backDelay: 1000,
