@@ -11,9 +11,9 @@ const Navbar = () => {
             Home
           </a>
         </Link>
-        <Link href="/projects">
-          <a className={router.pathname == "/projects" ? "active" : "deActive"}>
-            Projects
+        <Link href="https://www.reactdeveloper.site/">
+          <a  className={router.pathname == "https://www.reactdeveloper.site/" ? "active" : "deActive"}>
+            Portfolio
           </a>
         </Link>
         <Link href="/skills">
